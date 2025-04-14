@@ -1,4 +1,4 @@
-# imgutils
+# imgtools 画像加工ツール集
 
 - [画像反転/モノクロ化/二値化 imginvert](https://code4fukui.github.io/imginvert/)
 - [画像縦線追加/横線追加 imgaddlines](https://code4fukui.github.io/imgaddlines/)
