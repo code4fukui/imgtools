@@ -1,6 +1,17 @@
-# imgtools 画像加工ツール集
+# imgtools
+Image processing tool collection.
 
-- [画像反転/モノクロ化/二値化 imginvert](https://code4fukui.github.io/imginvert/)
-- [画像縦線追加/横線追加 imgaddlines](https://code4fukui.github.io/imgaddlines/)
-- [画像回転 imgrotate](https://code4fukui.github.io/imgrotate/)
-- [画像歪み補正 imgremap](https://code4fukui.github.io/imgremap/)
+## Demo
+- [Image inversion/grayscale/binarization: imginvert](https://code4fukui.github.io/imginvert/)
+- [Add vertical/horizontal lines to images: imgaddlines](https://code4fukui.github.io/imgaddlines/)
+- [Image rotation: imgrotate](https://code4fukui.github.io/imgrotate/)
+- [Image distortion correction: imgremap](https://code4fukui.github.io/imgremap/)
+
+## Features
+- Image inversion, grayscale conversion, and binarization
+- Adding vertical or horizontal lines to images
+- Image rotation
+- Image distortion correction
+
+## License
+MIT License
