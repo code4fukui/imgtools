@@ -1,4 +1,7 @@
 # imgtools
+
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 Image processing tool collection.
 
 ## Demo
