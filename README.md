@@ -1,6 +1,24 @@
-# imgtools 画像加工ツール集
+# imgtools
 
-- [画像反転/モノクロ化/二値化 imginvert](https://code4fukui.github.io/imginvert/)
-- [画像縦線追加/横線追加 imgaddlines](https://code4fukui.github.io/imgaddlines/)
-- [画像回転 imgrotate](https://code4fukui.github.io/imgrotate/)
-- [画像歪み補正 imgremap](https://code4fukui.github.io/imgremap/)
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
+A collection of simple, browser-based tools for common image manipulation tasks.
+
+## Tools
+
+Each tool is a standalone web application.
+
+### [imginvert](https://code4fukui.github.io/imginvert/)
+Apply color inversion, grayscale, or binarization (black and white) filters to an image.
+
+### [imgaddlines](https://code4fukui.github.io/imgaddlines/)
+Overlay a customizable grid of vertical and horizontal lines onto an image.
+
+### [imgrotate](https://code4fukui.github.io/imgrotate/)
+Rotate an image by a specified angle.
+
+### [imgremap](https://code4fukui.github.io/imgremap/)
+Correct perspective distortion in an image (keystone correction) by defining four corner points.
+
+## License
+MIT License — see [LICENSE](LICENSE).
